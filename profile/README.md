@@ -4,6 +4,8 @@
     <a href =""><img src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"></a>
 </p>
 
+[![Español](https://img.shields.io/badge/-Espa%C3%B1ol-blue?style=flat)](https://github.com/VaultShield/.github/blob/master/profile/README_es.md)
+
 # Welcome to VaultShield
 
 **VaultShield** is your go-to solution for secure credential management. Designed with passion during our devathon event, this platform aims to revolutionize the way teams manage their sensitive data.
