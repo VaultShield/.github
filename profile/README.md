@@ -33,16 +33,14 @@ VaultShield is a state-of-the-art password manager tailored for developers by de
 
 VaultShield is brought to you by a dedicated team of developers. Meet the people behind the project:
 
-- **Member 1**: Role/Contribution
-- **Member 2**: Role/Contribution
-- **Member 3**: Role/Contribution
-- _...and more_
+- **Member 1**: Backend
+- **Member 2**: Backend
+- **[@Flussen](https://github.com/Flussen)**: Backend
 
-(Replace the above with actual member names and their roles/contributions)
+- **Member 4**: Frontend
+- **Member 5**: Frontend
+- **Member 6**: Frontend
 
 ## Support and Contributions
 
 If you need support, start a discussion on our [Discussions](https://github.com/VaultShield/discussions) page. We are eager to collaborate with you!
-
-
-![GitHub Chart](https://ghchart.rshah.org/VaultShield)
