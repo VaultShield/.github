@@ -1,7 +1,7 @@
 <p align="center">
-    <a href =""><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"></a>
-    <a href =""><img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"></a>
-    <a href =""><img src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"></a>
+    <a href ="https://github.com/VaultShield/frontend"><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"></a>
+    <a href ="https://github.com/VaultShield/backend"><img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"></a>
+    <a href ="https://github.com/VaultShield/backend"><img src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"></a>
 </p>
 
 [![Español](https://img.shields.io/badge/-Espa%C3%B1ol-blue?style=flat)](https://github.com/VaultShield/.github/blob/master/profile/README_es.md)
