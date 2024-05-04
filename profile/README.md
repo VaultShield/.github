@@ -19,8 +19,9 @@ This project is part of the "Programación Español" community devathon, where d
 
 ## Our Repositories
 
-- **[frontend](/frontend)**: Dive into the user interface of VaultShield. Built with modern web technologies, our frontend is intuitive, responsive, and secure.
-- **[backend](/backend)**: Explore the core logic behind VaultShield. The backend repository houses all the necessary APIs, database models, and security protocols ensuring that your data remains safe and sound.
+- **[app](https://github.com/VaultShield/app)**: Here is the super module that will store the frontend and backend to do a deployment, having the necessary deployment and compose scripts
+- **[frontend](https://github.com/VaultShield/frontend)**: Dive into the user interface of VaultShield. Built with modern web technologies, our frontend is intuitive, responsive, and secure.
+- **[backend](https://github.com/VaultShield/backend)**: Explore the core logic behind VaultShield. The backend repository houses all the necessary APIs, database models, and security protocols ensuring that your data remains safe and sound.
 
 ## About VaultShield
 
@@ -29,19 +30,20 @@ VaultShield is a state-of-the-art password manager tailored for developers by de
 ### Features
 
 - Robust encryption for data at rest and in transit
-- Fine-grained access control for team members
-- Detailed audit logs for tracking activity
+- Auth system (login, register, recover)
+- Save credentials with information
+- Dockerized the project completely so you only need to use installed docker and a command to run the project
 
 ## Team Members
 
 VaultShield is brought to you by a dedicated team of developers. Meet the people behind the project:
 ### Backend
-- **[@Othamae](https://github.com/Othamae)** Java Developer - *[Contribution]*
-- **[@alejandro99billi](https://github.com/alejandro99billi)** Java Developer - *[Contribution]*
-- **[@Flussen](https://github.com/Flussen)** Golang Developer - *[Contribution]*
+- **[@Othamae](https://github.com/Othamae)** Java Developer - *Documentation, Route protection, Jwt reimplementation, help on the frontend*
+- **[@alejandro99billi](https://github.com/alejandro99billi)** Java Developer - *Credentials, interface and database agreement*
+- **[@Flussen](https://github.com/Flussen)** Golang Developer - *Auth, Recover, Devops and Automatation*
 
 ### Frontend
-- **[@Bolivar Delgado](https://github.com/bol507)** Typescript Developer - *[Contribution]*
+- **[@BustaGraphic](https://github.com/BustaGraphic)** Typescript Developer - *[Contribution]*
 - **[@Diego](https://github.com/diego-vecch)** Typescript Developer - *[Contribution]*
 - **[@Maje922](https://github.com/Maje922)** Typescript Developer - *[Contribution]*
 
