@@ -13,7 +13,7 @@
 
 This project is part of the "Programación Español" community devathon, where developers come together to push the boundaries of collaborative software development.
 
-### Programacion en Español
+### Programación en Español
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=&logo=youtube&logoColor=white)](https://www.youtube.com/@programacion-es)
 [![Twitch](https://img.shields.io/badge/Twitch-6441A5?style=&logo=twitch&logoColor=white)](https://www.twitch.tv/programacion_es)
 
