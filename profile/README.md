@@ -43,9 +43,9 @@ VaultShield is brought to you by a dedicated team of developers. Meet the people
 - **[@Flussen](https://github.com/Flussen)** Golang Developer - *Auth, Recover, Devops and Automatation*
 
 ### Frontend
-- **[@BustaGraphic](https://github.com/BustaGraphic)** Typescript Developer - *[Contribution]*
-- **[@Diego](https://github.com/diego-vecch)** Typescript Developer - *[Contribution]*
-- **[@Maje922](https://github.com/Maje922)** Typescript Developer - *[Contribution]*
+- **[@BustaGraphic](https://github.com/BustaGraphic)** Typescript Developer - *UI UX design, frontend development*
+- **[@Diego](https://github.com/diego-vecch)** Typescript Developer - *Product design, implementation, frontend development*
+- **[@Maje922](https://github.com/Maje922)** Typescript Developer - *frontend development, scrum master*
 
 ## Support and Contributions
 
