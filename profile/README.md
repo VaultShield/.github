@@ -19,9 +19,9 @@ This project is part of the "Programación Español" community devathon, where d
 
 ## Our Repositories
 
-- **[app](https://github.com/VaultShield/app)**: Here is the super module that will store the frontend and backend to do a deployment, having the necessary deployment and compose scripts
-- **[frontend](https://github.com/VaultShield/frontend)**: Dive into the user interface of VaultShield. Built with modern web technologies, our frontend is intuitive, responsive, and secure.
-- **[backend](https://github.com/VaultShield/backend)**: Explore the core logic behind VaultShield. The backend repository houses all the necessary APIs, database models, and security protocols ensuring that your data remains safe and sound.
+- **[app](https://github.com/VaultShield/app)**: here is the super module that will store the frontend and backend to do a deployment, having the necessary deployment and compose scripts
+- **[frontend](https://github.com/VaultShield/frontend)**: dive into the user interface of VaultShield. Built with modern web technologies, our frontend is intuitive, responsive, and secure.
+- **[backend](https://github.com/VaultShield/backend)**: explore the core logic behind VaultShield. The backend repository houses all the necessary APIs, database models, and security protocols ensuring that your data remains safe and sound.
 
 ## About VaultShield
 
