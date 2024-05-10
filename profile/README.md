@@ -50,3 +50,8 @@ VaultShield is brought to you by a dedicated team of developers. Meet the people
 ## Support and Contributions
 
 If you need support, start a discussion on our [Discussions](https://github.com/VaultShield/discussions) page. We are eager to collaborate with you!
+
+![1715248382109](https://github.com/VaultShield/.github/assets/53578660/563d5d44-6db5-4fb3-ad11-855dcf60cea2)
+![1715248367593](https://github.com/VaultShield/.github/assets/53578660/b9f7be29-0058-4760-b7f9-ee73ca7b880d)
+![1715248340942](https://github.com/VaultShield/.github/assets/53578660/fa79d719-600a-44ac-a4b3-1f279c25a340)
+
